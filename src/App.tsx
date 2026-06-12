@@ -214,7 +214,7 @@ const PROJECTS = [
       "An intelligent agriculture tracking platform that helps farmers monitor crop health, soil conditions, irrigation schedules, and yield predictions through real-time data and smart analytics.",
     image: "/images/project-agri.jpg",
     tech: ["React", "Node.js", "MongoDB", "IoT", "REST API"],
-    live: "#",
+    live: "https://drive.google.com/file/d/1OPHp2LHIvogPkWMWXvaHEVzuxxc3x4XG/view?usp=sharing",
     github: PERSON.github,
   },
   {
@@ -224,7 +224,7 @@ const PROJECTS = [
       "A comprehensive project-management app that helps homeowners plan, budget, and track renovation progress with visual dashboards, contractor management, and milestone timelines.",
     image: "/images/project-renovation.jpg",
     tech: ["React", "TypeScript", "Tailwind CSS", "Supabase", "Node.js"],
-    live: "#",
+    live: "https://drive.google.com/file/d/1cT98H_fd7u1kid1omDtrn3jVv8RUd7-L/view?usp=sharing",
     github: PERSON.github,
   },
 ];
